@@ -1,5 +1,5 @@
 # SimplePendulumProject
-Teammates: Shashwat Verma, Atharv Garg, Aryan Harsh, Pramukh Bhardwaj. 
+Teammates: Shashwat Verma, Atharv Garg, Aryan Harsh, Pramukh Bhardwaj, Aaditya Jhajharia.
 
 # Simple Pendulum Simulation Engine (C++ RK4 & Full-Stack Web Visualizer)
 
